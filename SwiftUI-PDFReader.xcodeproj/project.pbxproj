@@ -13,6 +13,34 @@
 		5081B44425F9F9A200AD0752 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B42F25F9F9A100AD0752 /* ContentView.swift */; };
 		5081B44525F9F9A200AD0752 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5081B43025F9F9A200AD0752 /* Assets.xcassets */; };
 		5081B44625F9F9A200AD0752 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5081B43025F9F9A200AD0752 /* Assets.xcassets */; };
+		5081B45A25FA037200AD0752 /* ModelStoredPDFBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B45925FA037200AD0752 /* ModelStoredPDFBook.swift */; };
+		5081B45B25FA037200AD0752 /* ModelStoredPDFBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B45925FA037200AD0752 /* ModelStoredPDFBook.swift */; };
+		5081B46125FA03CB00AD0752 /* ModelUserSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46025FA03CB00AD0752 /* ModelUserSetting.swift */; };
+		5081B46225FA03CB00AD0752 /* ModelUserSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46025FA03CB00AD0752 /* ModelUserSetting.swift */; };
+		5081B46625FA095700AD0752 /* ModelCaptureDetection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46525FA095700AD0752 /* ModelCaptureDetection.swift */; };
+		5081B46725FA095700AD0752 /* ModelCaptureDetection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46525FA095700AD0752 /* ModelCaptureDetection.swift */; };
+		5081B46B25FA099A00AD0752 /* ModelDownloadingBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46A25FA099A00AD0752 /* ModelDownloadingBook.swift */; };
+		5081B46C25FA099A00AD0752 /* ModelDownloadingBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46A25FA099A00AD0752 /* ModelDownloadingBook.swift */; };
+		5081B47025FA0AB300AD0752 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46F25FA0AB300AD0752 /* Book.swift */; };
+		5081B47125FA0AB300AD0752 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B46F25FA0AB300AD0752 /* Book.swift */; };
+		5081B47525FA0AD700AD0752 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B47425FA0AD700AD0752 /* Download.swift */; };
+		5081B47625FA0AD700AD0752 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B47425FA0AD700AD0752 /* Download.swift */; };
+		5081B47F25FA0E3A00AD0752 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B47E25FA0E3A00AD0752 /* SignInView.swift */; };
+		5081B48025FA0E3A00AD0752 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B47E25FA0E3A00AD0752 /* SignInView.swift */; };
+		5081B48425FA0E9400AD0752 /* HomeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B48325FA0E9400AD0752 /* HomeTabView.swift */; };
+		5081B48525FA0E9400AD0752 /* HomeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B48325FA0E9400AD0752 /* HomeTabView.swift */; };
+		5081B48925FA0EB500AD0752 /* SearchTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B48825FA0EB500AD0752 /* SearchTabView.swift */; };
+		5081B48A25FA0EB500AD0752 /* SearchTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B48825FA0EB500AD0752 /* SearchTabView.swift */; };
+		5081B48E25FA0EC300AD0752 /* MyNoteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B48D25FA0EC300AD0752 /* MyNoteListView.swift */; };
+		5081B48F25FA0EC300AD0752 /* MyNoteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B48D25FA0EC300AD0752 /* MyNoteListView.swift */; };
+		5081B49325FA0ED500AD0752 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B49225FA0ED500AD0752 /* SettingView.swift */; };
+		5081B49425FA0ED500AD0752 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B49225FA0ED500AD0752 /* SettingView.swift */; };
+		5081B49825FA0F7800AD0752 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B49725FA0F7800AD0752 /* Constants.swift */; };
+		5081B49925FA0F7800AD0752 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B49725FA0F7800AD0752 /* Constants.swift */; };
+		5081B4A125FA109700AD0752 /* MyBookListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B4A025FA109700AD0752 /* MyBookListView.swift */; };
+		5081B4A225FA109700AD0752 /* MyBookListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B4A025FA109700AD0752 /* MyBookListView.swift */; };
+		5081B4A625FA10CC00AD0752 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B4A525FA10CC00AD0752 /* SignUpView.swift */; };
+		5081B4A725FA10CC00AD0752 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5081B4A525FA10CC00AD0752 /* SignUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +52,20 @@
 		5081B43D25F9F9A200AD0752 /* SwiftUI-PDFReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-PDFReader.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5081B43F25F9F9A200AD0752 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5081B44025F9F9A200AD0752 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		5081B45925FA037200AD0752 /* ModelStoredPDFBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelStoredPDFBook.swift; sourceTree = "<group>"; };
+		5081B46025FA03CB00AD0752 /* ModelUserSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelUserSetting.swift; sourceTree = "<group>"; };
+		5081B46525FA095700AD0752 /* ModelCaptureDetection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelCaptureDetection.swift; sourceTree = "<group>"; };
+		5081B46A25FA099A00AD0752 /* ModelDownloadingBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelDownloadingBook.swift; sourceTree = "<group>"; };
+		5081B46F25FA0AB300AD0752 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		5081B47425FA0AD700AD0752 /* Download.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Download.swift; sourceTree = "<group>"; };
+		5081B47E25FA0E3A00AD0752 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		5081B48325FA0E9400AD0752 /* HomeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabView.swift; sourceTree = "<group>"; };
+		5081B48825FA0EB500AD0752 /* SearchTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTabView.swift; sourceTree = "<group>"; };
+		5081B48D25FA0EC300AD0752 /* MyNoteListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNoteListView.swift; sourceTree = "<group>"; };
+		5081B49225FA0ED500AD0752 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		5081B49725FA0F7800AD0752 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		5081B4A025FA109700AD0752 /* MyBookListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBookListView.swift; sourceTree = "<group>"; };
+		5081B4A525FA10CC00AD0752 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +100,9 @@
 			isa = PBXGroup;
 			children = (
 				5081B42E25F9F9A100AD0752 /* SwiftUI_PDFReaderApp.swift */,
-				5081B42F25F9F9A100AD0752 /* ContentView.swift */,
+				5081B49725FA0F7800AD0752 /* Constants.swift */,
+				5081B45825FA033700AD0752 /* Model */,
+				5081B47B25FA0D3500AD0752 /* View */,
 				5081B43025F9F9A200AD0752 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -88,6 +132,34 @@
 				5081B44025F9F9A200AD0752 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		5081B45825FA033700AD0752 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5081B45925FA037200AD0752 /* ModelStoredPDFBook.swift */,
+				5081B46025FA03CB00AD0752 /* ModelUserSetting.swift */,
+				5081B46F25FA0AB300AD0752 /* Book.swift */,
+				5081B46A25FA099A00AD0752 /* ModelDownloadingBook.swift */,
+				5081B47425FA0AD700AD0752 /* Download.swift */,
+				5081B46525FA095700AD0752 /* ModelCaptureDetection.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5081B47B25FA0D3500AD0752 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5081B42F25F9F9A100AD0752 /* ContentView.swift */,
+				5081B48825FA0EB500AD0752 /* SearchTabView.swift */,
+				5081B4A025FA109700AD0752 /* MyBookListView.swift */,
+				5081B48D25FA0EC300AD0752 /* MyNoteListView.swift */,
+				5081B4A525FA10CC00AD0752 /* SignUpView.swift */,
+				5081B49225FA0ED500AD0752 /* SettingView.swift */,
+				5081B47E25FA0E3A00AD0752 /* SignInView.swift */,
+				5081B48325FA0E9400AD0752 /* HomeTabView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,8 +259,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5081B47F25FA0E3A00AD0752 /* SignInView.swift in Sources */,
+				5081B47525FA0AD700AD0752 /* Download.swift in Sources */,
 				5081B44325F9F9A200AD0752 /* ContentView.swift in Sources */,
+				5081B46B25FA099A00AD0752 /* ModelDownloadingBook.swift in Sources */,
+				5081B4A125FA109700AD0752 /* MyBookListView.swift in Sources */,
+				5081B48925FA0EB500AD0752 /* SearchTabView.swift in Sources */,
 				5081B44125F9F9A200AD0752 /* SwiftUI_PDFReaderApp.swift in Sources */,
+				5081B46625FA095700AD0752 /* ModelCaptureDetection.swift in Sources */,
+				5081B45A25FA037200AD0752 /* ModelStoredPDFBook.swift in Sources */,
+				5081B49325FA0ED500AD0752 /* SettingView.swift in Sources */,
+				5081B47025FA0AB300AD0752 /* Book.swift in Sources */,
+				5081B46125FA03CB00AD0752 /* ModelUserSetting.swift in Sources */,
+				5081B4A625FA10CC00AD0752 /* SignUpView.swift in Sources */,
+				5081B49825FA0F7800AD0752 /* Constants.swift in Sources */,
+				5081B48E25FA0EC300AD0752 /* MyNoteListView.swift in Sources */,
+				5081B48425FA0E9400AD0752 /* HomeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +282,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5081B48025FA0E3A00AD0752 /* SignInView.swift in Sources */,
+				5081B47625FA0AD700AD0752 /* Download.swift in Sources */,
 				5081B44425F9F9A200AD0752 /* ContentView.swift in Sources */,
+				5081B46C25FA099A00AD0752 /* ModelDownloadingBook.swift in Sources */,
+				5081B4A225FA109700AD0752 /* MyBookListView.swift in Sources */,
+				5081B48A25FA0EB500AD0752 /* SearchTabView.swift in Sources */,
 				5081B44225F9F9A200AD0752 /* SwiftUI_PDFReaderApp.swift in Sources */,
+				5081B46725FA095700AD0752 /* ModelCaptureDetection.swift in Sources */,
+				5081B45B25FA037200AD0752 /* ModelStoredPDFBook.swift in Sources */,
+				5081B49425FA0ED500AD0752 /* SettingView.swift in Sources */,
+				5081B47125FA0AB300AD0752 /* Book.swift in Sources */,
+				5081B46225FA03CB00AD0752 /* ModelUserSetting.swift in Sources */,
+				5081B4A725FA10CC00AD0752 /* SignUpView.swift in Sources */,
+				5081B49925FA0F7800AD0752 /* Constants.swift in Sources */,
+				5081B48F25FA0EC300AD0752 /* MyNoteListView.swift in Sources */,
+				5081B48525FA0E9400AD0752 /* HomeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
